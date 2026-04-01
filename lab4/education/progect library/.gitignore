@@ -5,3 +5,10 @@ bin/
 obj/
 Debug/
 Release/
+.vs/
+*.suo
+*.user
+bin/
+obj/
+Debug/
+Release/
